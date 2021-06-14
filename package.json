@@ -1,0 +1,31 @@
+{
+  "name": "clase-21-proyecto2",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ."
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "firebase-admin": "^9.9.0",
+    "fs": "^0.0.1-security",
+    "knex": "^0.95.6",
+    "mongoose": "^5.12.13",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "socket.io": "^4.1.1",
+    "sqlite3": "^5.0.2"
+  }
+}
