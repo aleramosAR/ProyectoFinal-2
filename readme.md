@@ -29,7 +29,7 @@ Cree un archivo config.js donde se pueden cambiar ciertos valores como rutas, pu
 
 ## Rutas
 
-####Rutas de Front End
+#### Rutas de Front End
 
 <table><tr><td>
 
@@ -43,8 +43,8 @@ http://localhost:8080/carrito
 
 ---
 
-####Rutas de Back End
-######Estas funcionan por igual con todas las opciones de base.
+#### Rutas de Back End
+###### Estas funcionan por igual con todas las opciones de base.
 
 <table><tr><td>
 
